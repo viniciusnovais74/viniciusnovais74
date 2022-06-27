@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/viniciusnovais74/static/css/main.ffbcbc87.css",
-    "main.js": "/viniciusnovais74/static/js/main.4476701f.js",
+    "main.js": "/viniciusnovais74/static/js/main.c546d40b.js",
     "static/media/photo1.jpg": "/viniciusnovais74/static/media/photo1.9728284b129e39e2cdf6.jpg",
     "index.html": "/viniciusnovais74/index.html",
     "main.ffbcbc87.css.map": "/viniciusnovais74/static/css/main.ffbcbc87.css.map",
-    "main.4476701f.js.map": "/viniciusnovais74/static/js/main.4476701f.js.map"
+    "main.c546d40b.js.map": "/viniciusnovais74/static/js/main.c546d40b.js.map"
   },
   "entrypoints": [
     "static/css/main.ffbcbc87.css",
-    "static/js/main.4476701f.js"
+    "static/js/main.c546d40b.js"
   ]
 }
